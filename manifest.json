@@ -2,12 +2,12 @@
 	"format_version": 2,
 	"header": {
 		"description": "§9Hides the helmets from rendering on players or mobs §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.1",
-		"name": "§l§1Alien's §r§eHelmet hider §4(V1.0.1)",
+		"name": "§l§1Alien's §r§eHelmet hider §4(V1.0.2)",
 		"uuid": "421d65a9-05fb-4d76-a29f-022800ffbfd0",
 		"version": [
 			1,
 			0,
-			1
+			2
 		],
 		"min_engine_version": [
 			1,
@@ -23,7 +23,7 @@
 			"version": [
 				1,
 				0,
-				1
+				2
 			]
 		}
 	]
