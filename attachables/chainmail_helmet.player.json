@@ -9,7 +9,7 @@
         "enchanted": "armor_enchanted"
       },
       "textures": {
-        "default": "textures/models/armor/player_chain_1",
+        "default": "textures/models/armor/invisible_helmet",
         "enchanted": "textures/misc/enchanted_item_glint"
       },
       "geometry": {
