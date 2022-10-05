@@ -1,0 +1,1 @@
+Huge thankyou to FondUnicycle for making helmets only hide on players mode: https://github.com/FondUnicycle
