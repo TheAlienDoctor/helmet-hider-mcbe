@@ -1,13 +1,13 @@
 {
 	"format_version": 2,
 	"header": {
-		"description": "Hides the helmets from rendering on players | §3 ©TheAlienDoctor 2022 §r| §6 Thank you to FondUnicycle for your contributions!  §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.1.0 §r",
-		"name": "§1Alien's §r§eHelmet hider §4(V1.1.0) §r",
+		"description": "§Stops the hemlet from being rendered on the player, and optionally on any other entities as well. | §3© TheAlienDoctor §r| §6 Thank you to FondUnicycle for your contributions!  §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.1.1 §r",
+		"name": "§1§lAlien's§r §eHelmet Hider §4(RP-V1.0.0)§r",
 		"uuid": "421d65a9-05fb-4d76-a29f-022800ffbfd0",
 		"version": [
 			1,
 			1,
-			0
+			1
 		],
 		"min_engine_version": [
 			1,
@@ -17,13 +17,13 @@
 	},
 	"modules": [
 		{
-			"description": "Hides the helmets from rendering on players | §3 ©TheAlienDoctor 2022 §r| §6 Thank you to FondUnicycle for your contributions!  §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.1.0 §r",
+		"description": "§Stops the hemlet from being rendered on the player, and optionally on any other entities as well. | §3© TheAlienDoctor §r| §6 Thank you to FondUnicycle for your contributions!  §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.1.1 §r",
 			"type": "resources",
 			"uuid": "49f74465-2069-4fc8-9dd4-d198bc89db73",
 			"version": [
 				1,
 				1,
-				0
+				1
 			]
 		}
 	],
@@ -57,5 +57,14 @@
 			"name": "Hide player helmets only",
 			"memory_tier": 1
 		}
-	]
+	],
+	"metadata": {
+		"authors": [
+			"TheAlienDoctor",
+			"FondUnicycle" //https://github.com/FondUnicycle
+		],
+		"license": "BSD 3-Clause License",
+		"url": "https://TheAlienDoctor.com"
+	}
+}
 }
