@@ -1,7 +1,7 @@
 {
 	"format_version": 2,
 	"header": {
-		"description": "§Stops the hemlet from being rendered on the player, and optionally on any other entities as well. | §3© TheAlienDoctor §r| §6 Thank you to FondUnicycle for your contributions! §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.2.0 §r",
+		"description": "Stops the hemlet from being rendered on the player, and optionally on any other entities as well. | §3© TheAlienDoctor §r| §6 Thank you to FondUnicycle for your contributions! §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.2.0 §r",
 		"name": "§1§lAlien's§r §eHelmet Hider §4(RP-V1.2.0)§r",
 		"uuid": "421d65a9-05fb-4d76-a29f-022800ffbfd0",
 		"version": [
@@ -17,7 +17,7 @@
 	},
 	"modules": [
 		{
-			"description": "§Stops the hemlet from being rendered on the player, and optionally on any other entities as well. | §3© TheAlienDoctor §r| §6 Thank you to FondUnicycle for your contributions! §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.2.0 §r",
+			"description": "Stops the hemlet from being rendered on the player, and optionally on any other entities as well. | §3© TheAlienDoctor §r| §6 Thank you to FondUnicycle for your contributions! §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.2.0 §r",
 			"type": "resources",
 			"uuid": "49f74465-2069-4fc8-9dd4-d198bc89db73",
 			"version": [
