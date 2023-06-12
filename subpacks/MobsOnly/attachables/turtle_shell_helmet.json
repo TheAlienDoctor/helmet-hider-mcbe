@@ -14,7 +14,7 @@
       "geometry": {
         "default": "geometry.humanoid.armor.helmet"
       },
-      "render_controllers": [ "controller.render.armor" ]
+      "render_controllers": [ "controller.render.alien.helmet" ]
     }
   }
 }
